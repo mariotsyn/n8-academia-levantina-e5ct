@@ -1,0 +1,58 @@
+{
+  "business": {
+    "name": "Academia Levantina",
+    "tagline": "Formación de excelencia para tu futuro profesional.",
+    "description": "Academia Levantina es tu centro de formación de referencia en Valencia, dedicado a impulsar tu carrera con cursos de alta calidad y un profesorado experto. Con una valoración de 4.8 estrellas, nuestro compromiso es tu éxito.",
+    "phone": "+34 963 51 56 00",
+    "address": "Passatge de Russafa, 10, L'Eixample, 46004 València, Valencia, España",
+    "email": "info@academialevantina.es",
+    "rating": 4.8,
+    "reviewCount": 59,
+    "hours": ["Lun-Vie: 9:00-20:00", "Sáb: 10:00-14:00"]
+  },
+  "theme": {
+    "primary": "#0D47A1",
+    "secondary": "#212121",
+    "accent": "#FFC107",
+    "mode": "dark"
+  },
+  "hero": {
+    "headline": "Invierte en tu futuro. Transforma tu carrera profesional.",
+    "subheadline": "Descubre nuestros cursos especializados, diseñados para darte las habilidades que demandan las empresas y asegurar tu crecimiento profesional.",
+    "cta1": { "text": "Infórmate Ahora", "href": "#contact" },
+    "cta2": { "text": "Ver Cursos", "href": "#services" },
+    "imageUrl": "https://places.googleapis.com/v1/places/ChIJ_egRZrVIYA0RcL0pYJvSNhA/photos/Ab43m-sf1RXhYgYabVdYfHNAo7XZv257jPrGQ9byHwzqT6Gj3cz-gSky_dNi7-WbZO-5ZusTE_8_bVEdo8f2mHF9JXafWmHjO4R5zk_q1VTS6R87CC16cNhMoBmYxdFmbyMd3sDKYEHAQIBWgxz1wdggrtxzcjaRaSmYgmqklDZ6TzlQHJoIq5_CaeTdKgMq9PzIwKOacguCZU1X73z3VoQAQpay9CwDiPvRJZjuvV61Jqs9gWeN2twGi7yQm-w_fQqYJPCbM8Kenhc5BsOjrV9zlOtbQU87PstJf9-KvG4dULfoijkbWlfMOO0nMsA4WlyZvwpaf3GcBXmg6JmNI73i5-uB87uubAqXbfqhWzOgPMLArD_WCjGxtth5Q1hMEVDPV30_8XZ9VGTh1PtLHJHZVshwKds-4ODkBYAxgBVe1yQn6g/media?maxWidthPx=1200&key=AIzaSyAVvBWUrtTMnut45RFBuVKNz61wSg1Ebd8"
+  },
+  "services": [
+    { "icon": "✍️", "title": "Preparación de Oposiciones", "description": "Maximiza tus posibilidades de éxito con nuestra metodología probada y temarios actualizados. Te guiamos paso a paso para que consigas tu plaza." },
+    { "icon": "🌍", "title": "Cursos de Idiomas", "description": "Domina inglés, francés o alemán con profesores nativos y grupos reducidos. Prepárate para certificaciones oficiales y el mercado global." },
+    { "icon": "💼", "title": "Formación para Empresas", "description": "Potencia el talento de tu equipo con planes formativos a medida. Cursos prácticos y orientados a mejorar la productividad y competitividad." },
+    { "icon": "📚", "title": "Apoyo Universitario y Escolar", "description": "Supera cualquier asignatura con nuestras clases de refuerzo personalizadas. Ayudamos a estudiantes de todos los niveles a alcanzar sus metas académicas." }
+  ],
+  "about": {
+    "title": "Más de una Década Formando a Profesionales en Valencia",
+    "text": "Desde nuestra fundación en el corazón de Valencia, Academia Levantina se ha consolidado como un pilar en la formación de miles de profesionales. Nacimos con la misión de ofrecer una educación accesible y de la más alta calidad, adaptada a las necesidades reales del mercado laboral.\n\nNuestro equipo está formado por docentes apasionados y expertos en sus respectivas áreas, comprometidos con el progreso de cada alumno. Creemos en una enseñanza cercana y práctica, donde el estudiante es el protagonista. Esta filosofía se refleja en nuestra excepcional valoración de 4.8 estrellas, un testimonio del éxito de nuestros alumnos.\n\nNos diferenciamos por nuestros grupos reducidos, el material didáctico de vanguardia y un seguimiento personalizado que garantiza que nadie se quede atrás. En Academia Levantina, no solo adquieres conocimientos, construyes las bases para un futuro brillante.",
+    "imageUrl": "https://places.googleapis.com/v1/places/ChIJ_egRZrVIYA0RcL0pYJvSNhA/photos/Ab43m-uMFrn35Hl5oJu3DHOcj7-yLVWuVTOC-QBKQXSlGuogxU3SRNNFJwuQxmS4LT_h4VODuPa08wHzFo0fH8PeDcgHmXcswWHPXmcSF7tSvC9gmDBEbCgN__E7tnYHswRz6CZAfidQRRBdIf2Gv-Ti46sMwVyTCC5BXTAxCTXeiOzSbbiT90gdI6qOjFJDzHDW8d3-nGwh6Rm5eKTrJ6OKE0rlpKJ5pVt3iFA-TgWaCFZtf8oYT20SuNp7WIISNBiBqumHt-sd6N7dNkawPITpWnzKjwo-K0Uy7hj_vL-6a7Ie_bKxrawjPHs1kRtQVX1h9f3bCOEtcZF43qdP_36cFR-W6WOTgftgLZUQLeSFis3uiRKuhoIKowRrxd51qTZIlHcHGxlHqYNcZtwFzIyVF4PbrNTKCidr4pH-PNKRj30P2mN0/media?maxWidthPx=1200&key=AIzaSyAVvBWUrtTMnut45RFBuVKNz61wSg1Ebd8"
+  },
+  "gallery": [
+    { "url": "https://places.googleapis.com/v1/places/ChIJ_egRZrVIYA0RcL0pYJvSNhA/photos/Ab43m-sByAnnVnUc9MdI92kGMrrJvav_cwDSPrn9rGebjGuetNifXq4c4Mb92SjOztHOuYPB-Lt4reTUIt9W3Xl96nb47Rj0Pir3GLHgQNRovwa8LycpnG_IQUpNpXVEWVIPmnOLrp4up2bFwotbNHxl5kl56QRfgXHBx_wLQ6oHBWOMd1BeW3Feyu1CKgp-aBKcrl-ws2Xi5jlUwqb959PRBgtpsFGBM_C7sj-cdYeTY__RjUtWCg9blw9ulMUVZl6VqZveJlvQnqvg3bjp2HYXlBZ4v94DBwVfM2XhY8G-RPvTgjllgdBloWmeCJ1j4ktAvVZNOcl9w8z_5jFL7hBfGKfUTfxT5VLDbjUkc1Id6KZnU6U729FzTl57HabRTgRhXXg9sbnEbMaOMFiOoUntXZNkHV-Wu3X2ne4OzA_S54a9Mg/media?maxWidthPx=1200&key=AIzaSyAVvBWUrtTMnut45RFBuVKNz61wSg1Ebd8", "alt": "Placa identificativa de Academia Levantina en la entrada." },
+    { "url": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=1200&q=80", "alt": "Aula de estudio moderna y luminosa." },
+    { "url": "https://images.unsplash.com/photo-1560179707-f14e90ef3623?w=1200&q=80", "alt": "Grupo de estudio en una de nuestras salas de formación." },
+    { "url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=1200&q=80", "alt": "Edificio moderno, sede de nuestra academia en Valencia." }
+  ],
+  "testimonials": [
+    { "name": "Carlos García", "stars": 5, "text": "Una preparación excelente para mi oposición. El trato de los profesores es cercano y muy profesional. ¡Conseguí mi plaza gracias a ellos!" },
+    { "name": "Sofía Martínez", "stars": 5, "text": "El curso de inglés intensivo superó mis expectativas. Grupos pequeños y un enfoque muy práctico que me ha ayudado muchísimo en mi trabajo." },
+    { "name": "Javier Alonso", "stars": 4, "text": "Buen temario y grandes profesionales. La experiencia fue muy positiva y recomendable para cualquiera que quiera mejorar su formación." }
+  ],
+  "contact": {
+    "title": "¿Listo para dar el siguiente paso?",
+    "subtitle": "Contacta con nosotros hoy mismo para recibir información detallada sobre nuestros cursos y resolver todas tus dudas. ¡Te esperamos!",
+    "whatsappNumber": "+34 963 51 56 00",
+    "showMap": true,
+    "mapQuery": "Academia Levantina Passatge de Russafa, 10, L'Eixample, 46004 València, Valencia, España"
+  },
+  "footer": {
+    "copyright": "© 2026 Academia Levantina"
+  }
+}
